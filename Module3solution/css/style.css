@@ -1,0 +1,28 @@
+
+body{
+	background-color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#header-nav{
+	background-color:#d3d3d3;
+	border-radius:0;
+	border:0;
+	
+}
+.navbar-default .navbar-brand{
+	margin:0;
+	padding:0;
+	height:60px;
+	
+}
+.navbar-default .navbar-brand a{
+	text-decoration:none;
+
+}
+
+.navbar-default .navbar-brand h1{
+	margin-top:10px;
+}
+.menutext{
+	background:#d3d3d3;
+}
